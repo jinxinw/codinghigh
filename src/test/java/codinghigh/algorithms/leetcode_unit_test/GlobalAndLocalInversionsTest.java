@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2018 to Xinwei Jin.
+ * All Rights Reserved.
+ */
+
 package codinghigh.algorithms.leetcode_unit_test;
 
 import org.junit.After;
